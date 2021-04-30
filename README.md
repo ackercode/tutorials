@@ -1,2 +1,2 @@
-# tutorials
+# Tutorials
 tutorials for everyone
