@@ -1,6 +1,6 @@
 # Acker Code Tutorials
 
-Todos os scripts se encontram na pasta tutorials 
+Todos os scripts se encontram na pasta python-tutorials
 
 Segue no insta para mais dicas: https://www.instagram.com/ackercode/
 
