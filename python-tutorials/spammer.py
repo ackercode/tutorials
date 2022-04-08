@@ -12,4 +12,5 @@ while i<int(limite_msg):
     spam.typewrite(msg)
     spam.press("Enter")
 
-i+=1
+    i+=1
+
