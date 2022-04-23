@@ -1,3 +1,3 @@
-import cowsay
+import cowsay 
 
-cowsay.daemon("Acker Code")
+cowsay.tux("@ackercode")

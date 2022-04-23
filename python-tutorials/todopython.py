@@ -1,3 +1,3 @@
-    soma = 2 + 2:
+soma = 2 + 2
 
-    print(soma)
+print(soma)
