@@ -6,5 +6,5 @@ from PIL import Image
 
 img = Image.open("buzz.png")
 blackandwrite = img.convert("L")
-blackandwrite.save("bw_buzz.png")
+blackandwrite.save("bw_buzz2.png")
 blackandwrite.show()
