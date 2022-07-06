@@ -6,3 +6,6 @@ z = zip(names, age, hobby)
 
 for n, a, h in z:
     print(n, a ,h)
+
+for n, a, h in z:
+    print(n, a ,h)
